@@ -7,7 +7,6 @@
   --bg: #ffe3c2;
 }
 
-/* base styles & title */
 body {
   font-family: "Noto Serif";
   color: var(--secondary);
